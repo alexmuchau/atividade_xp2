@@ -1,6 +1,6 @@
 package com.example.atividadexp2
 
-data class Personagem(
+data class Jogador(
     var name: String,
     private var _level: Int,
     private var _bonus: Int,
